@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="unitsArray">
+        <item>Inches</item>
+        <item>Centimetres</item>
+        <item>Pounds</item>
+        <item>Kilograms</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+
+    </string-array>
+</resources>
